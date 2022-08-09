@@ -1,0 +1,98 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Red Rose", cursive;
+}
+
+/* ------------------------------ */
+/* ---------- NAVBAR ------------ */
+/* ------------------------------ */
+
+/* ------------------------------ */
+/* ---------- HERO ------------ */
+/* ------------------------------ */
+
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: Red Rose;
+  margin-top: 3%;
+}
+
+.list{
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  color: #FFC233;
+ 
+}
+
+.list-item{
+  margin: 0px 50px;
+  font-size: 20px;
+}
+
+body{
+  background-image: url(./assets/pro2.png)
+   }
+
+body{ 
+  background-position: center;
+  background-size: cover;
+  height: 150vh;
+  margin: 0 5%;
+ 
+   }
+
+
+.hero-heading{
+font-size: 130px;
+text-align: center;
+font-weight: bolder;
+word-spacing: -5px;
+line-height: 120px;
+position: absolute;
+padding: 90px;
+color: #fcfc41;
+margin-top: -5%
+} 
+
+.button-small{
+ background-color: #FF505F;
+ position: absolute;
+ font-size: 20px ;
+ right: 5%;
+ border: none;
+ color: #FFFFFF;
+ padding: 10px 40px;
+ text-align: center;
+ top: 5%;
+
+}
+
+.button-large{
+  position: absolute;
+  bottom: 6%;
+  margin-left: 35%;
+  border: none;
+  color: #FFFFFF;
+  background-color: #FF505F;
+  padding: 20px 60px ;
+  font-size: 30px;
+ 
+}
+
+.bottom{
+  position: absolute;
+  bottom: 7%;
+  margin-left: 80%;
+  top: 100%;
+}
+
+
+
+
+
+
