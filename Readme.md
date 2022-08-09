@@ -36,7 +36,7 @@ This Project Teach Me About How to Add Background Image Into Landing Page And Ho
 ## Screenshot 
 
 
-[Live Link](https://beamish-beijinho-3c7620.netlify.app/)
+[Live Link](https://steady-halva-ebdd30.netlify.app/)
 
 ![What's Trend In](./Capture.PNG)
 
